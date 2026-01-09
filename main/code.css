@@ -1,0 +1,9 @@
+style{
+    body{
+        background-color: blue;
+        text-align: center;
+      font-style: calc();
+      font-size: medium;
+      
+    }
+}
